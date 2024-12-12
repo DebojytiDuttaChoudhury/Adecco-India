@@ -114,5 +114,5 @@ This project provides a comprehensive analysis of factors affecting employee ret
 
 ---
 
-##LinkedIn: [Debojyti Dutta Choudhury](www.linkedin.com/in/debojyti-dutta-choudhury)
+## LinkedIn: [Debojyti Dutta Choudhury](www.linkedin.com/in/debojyti-dutta-choudhury)
 
