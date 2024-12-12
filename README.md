@@ -107,6 +107,10 @@ Here are the key questions and insights gained from analyzing the data:
 5. **Incentive and Recognition Programs**: Enhance promotion and stock option availability to motivate employees.  
 6. **Training and Development**: Offer targeted training programs to improve job involvement and engagement.
 
+
+##Linkdin-www.linkedin.com/in/debojyti-dutta-choudhury
+
+
 ---
 
 ## Conclusion
