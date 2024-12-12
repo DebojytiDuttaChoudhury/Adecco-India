@@ -107,11 +107,12 @@ Here are the key questions and insights gained from analyzing the data:
 5. **Incentive and Recognition Programs**: Enhance promotion and stock option availability to motivate employees.  
 6. **Training and Development**: Offer targeted training programs to improve job involvement and engagement.
 
-
-##Linkdin-www.linkedin.com/in/debojyti-dutta-choudhury
-
-
 ---
 
 ## Conclusion
 This project provides a comprehensive analysis of factors affecting employee retention and satisfaction at Adecco India. The insights and recommendations can guide HR teams in creating strategies to improve employee engagement and reduce attrition, fostering a more productive and satisfied workforce.
+
+---
+
+##LinkedIn: [Debojyti Dutta Choudhury](www.linkedin.com/in/debojyti-dutta-choudhury)
+
